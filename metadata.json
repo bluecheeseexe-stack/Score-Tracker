@@ -1,0 +1,6 @@
+{
+  "name": "LEPT Rating Tracker",
+  "description": "A Licensure Examination for Professional Teachers rating tracker with multi-user username and PIN access, transmutation formula calculation, progress goals, and file-organized assessment history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

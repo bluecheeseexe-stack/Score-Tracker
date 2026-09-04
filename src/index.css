@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+@layer base {
+  *, ::before, ::after {
+    font-family: 'Newsreader', 'Lora', 'Georgia', 'Cambria', serif;
+  }
+  
+  input, button, select, textarea, optgroup {
+    font-family: inherit;
+  }
+
+  body {
+    background-color: #f2f4f2;
+    color: #2d332d;
+    font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  }
+}
+
+/* Geometric Balance scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f2f4f2;
+}
+::-webkit-scrollbar-thumb {
+  background: #c8d1c8;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8a968a;
+}
+

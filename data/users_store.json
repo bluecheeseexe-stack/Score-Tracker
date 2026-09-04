@@ -1,0 +1,116 @@
+{
+  "dani": {
+    "username": "dani",
+    "displayName": "Teacher Dani",
+    "pin": "1234",
+    "targetRating": 91,
+    "files": [
+      "General Education",
+      "Professional Education",
+      "Majorship",
+      "Mock Drills"
+    ],
+    "assessments": [
+      {
+        "id": "asm-dani-1",
+        "name": "Gen Ed Diagnostic Examination",
+        "file": "General Education",
+        "rawScore": 82,
+        "totalItems": 100,
+        "rating": 89.2,
+        "date": "2026-08-28",
+        "notes": "High mastery in English Grammar and Social Science. Need refresher on Rizal poems.",
+        "createdAt": 1787936961956
+      },
+      {
+        "id": "asm-dani-2",
+        "name": "Prof Ed: Child & Adolescent Learners",
+        "file": "Professional Education",
+        "rawScore": 44,
+        "totalItems": 50,
+        "rating": 92.8,
+        "date": "2026-08-30",
+        "notes": "Piaget and Vygotsky development stages well recalled.",
+        "createdAt": 1788109761956
+      },
+      {
+        "id": "asm-dani-3",
+        "name": "Curriculum Dev & Teaching Strategies",
+        "file": "Professional Education",
+        "rawScore": 38,
+        "totalItems": 50,
+        "rating": 85.6,
+        "date": "2026-09-01",
+        "notes": "Review Bloom taxonomy action verbs for assessment questions.",
+        "createdAt": 1788282561956
+      },
+      {
+        "id": "asm-dani-4",
+        "name": "Majorship Specialization Core Drill",
+        "file": "Majorship",
+        "rawScore": 72,
+        "totalItems": 90,
+        "rating": 88,
+        "date": "2026-09-03",
+        "notes": "Consistent speed pacing at ~45 seconds per question.",
+        "createdAt": 1788455361956
+      }
+    ],
+    "createdAt": 1787677761956,
+    "updatedAt": 1788541761956
+  },
+  "test 1": {
+    "username": "test 1",
+    "displayName": "test 1",
+    "pin": "0401",
+    "targetRating": 98,
+    "files": [
+      "General Education",
+      "Professional Education",
+      "Majorship",
+      "Mock Drills"
+    ],
+    "assessments": [
+      {
+        "id": "asm-1788542297050-7tnu5",
+        "name": "CME 1",
+        "file": "General Education",
+        "rawScore": 752,
+        "totalItems": 805,
+        "rating": 96.05,
+        "date": "2026-09-04",
+        "notes": "",
+        "createdAt": 1788542297050
+      }
+    ],
+    "createdAt": 1788541924586,
+    "updatedAt": 1788542297050
+  },
+  "test 2": {
+    "username": "test 2",
+    "displayName": "Test 2",
+    "pin": "0401",
+    "targetRating": 85,
+    "files": [
+      "General Education",
+      "Professional Education",
+      "Majorship",
+      "Mock Drills"
+    ],
+    "assessments": [
+      {
+        "id": "demo-1788542319752",
+        "name": "Diagnostic Assessment 1",
+        "file": "General Education",
+        "rawScore": 78,
+        "totalItems": 100,
+        "rating": 86.8,
+        "date": "2026-09-04",
+        "notes": "Initial baseline test. Keep up the review!",
+        "createdAt": 1788542319752
+      }
+    ],
+    "createdAt": 1788542319752,
+    "updatedAt": 1788542319752
+  }
+}
